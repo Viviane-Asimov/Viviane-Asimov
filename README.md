@@ -1,4 +1,4 @@
-# Olá! Eu sou "Fulano"  
+# Olá!  
 Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e automações.
 
 Sou um desenvolvedor apaixonado por automação, inteligência artificial e análise de dados. Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
